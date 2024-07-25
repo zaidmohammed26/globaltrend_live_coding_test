@@ -21,4 +21,5 @@ function knapsack(weights, values, capacity) {
     }
     k++;
   }
+  return answer;
 }
